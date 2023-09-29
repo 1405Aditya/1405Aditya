@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,Django**
+- 🌱 I’m currently learning **HTML,CSS,JavaScript,Django.**
 
-- 📫 How to reach me **adityapasarkar@gmail.com**
+- 📫 How to reach me:**adityapasarkar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Aditya Pasarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya pasarkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-pasarkar-925737284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya pasarkar" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya_pasarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_pasarkar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/adityapajlt6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adityapajlt6" height="30" width="40" /></a>
 </p>
