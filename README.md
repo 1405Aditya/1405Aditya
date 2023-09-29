@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aditya Pasarkar</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm4wZjZlNnh6MTI2dGZsYmM0bWR4OXY2M3RqZG9jYW1tN2lwcnJraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1405aditya&label=Profile%20views&color=0e75b6&style=flat" alt="1405aditya" /> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,JavaScript,Django**
