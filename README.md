@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Pasarkar</h1>
 <h3 align="center">A passionate Cloud Enthusiast from India</h3>
 
+
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1405aditya&label=Profile%20views&color=0e75b6&style=flat" alt="1405aditya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
