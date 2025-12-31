@@ -15,7 +15,7 @@
   <a href="https://linkedin.com/in/aditya-pasarkar/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-  <br><br><br>
+ 
   <a href="https://instagram.com/aditya_pasarkar">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
