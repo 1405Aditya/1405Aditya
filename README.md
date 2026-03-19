@@ -23,42 +23,32 @@
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
-<!-- CLOUD -->
 <h4 align="left">☁️ Cloud</h4>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
 </p>
 
-<!-- DATA & ANALYTICS -->
 <h4 align="left">📊 Data & Analytics</h4>
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
 </p>
 
-<!-- PROGRAMMING -->
 <h4 align="left">💻 Programming</h4>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
 </p>
 
-<!-- WEB -->
 <h4 align="left">🌐 Web</h4>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
 </p>
 
-<!-- TOOLS -->
 <h4 align="left">⚙️ Tools</h4>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </p>
 
-<h3 align="center">📈 Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1405aditya&theme=tokyo-night" />
-</p>
