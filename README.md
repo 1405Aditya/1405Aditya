@@ -21,44 +21,44 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
+<!-- CLOUD -->
+<h4 align="left">☁️ Cloud</h4>
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
+</p>
 
-<a href="https://aws.amazon.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-</a>
+<!-- DATA & ANALYTICS -->
+<h4 align="left">📊 Data & Analytics</h4>
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
+</p>
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-</a>
+<!-- PROGRAMMING -->
+<h4 align="left">💻 Programming</h4>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+</p>
 
-<a href="https://cloud.google.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
-</a>
+<!-- WEB -->
+<h4 align="left">🌐 Web</h4>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+</p>
 
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-</a>
+<!-- TOOLS -->
+<h4 align="left">⚙️ Tools</h4>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+</p>
 
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-</a>
+<h3 align="center">📈 Contribution Graph</h3>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-</a>
-
-<a href="https://www.tableau.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/>
-</a>
-
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-</a>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1405aditya&theme=tokyo-night" />
 </p>
